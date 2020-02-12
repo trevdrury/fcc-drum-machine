@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fcc-drum-machine/static/css/main.8a900045.chunk.css",
+    "main.js": "/fcc-drum-machine/static/js/main.bb2fb2b2.chunk.js",
+    "main.js.map": "/fcc-drum-machine/static/js/main.bb2fb2b2.chunk.js.map",
+    "runtime-main.js": "/fcc-drum-machine/static/js/runtime-main.cf8df867.js",
+    "runtime-main.js.map": "/fcc-drum-machine/static/js/runtime-main.cf8df867.js.map",
+    "static/js/2.1e7bd2bb.chunk.js": "/fcc-drum-machine/static/js/2.1e7bd2bb.chunk.js",
+    "static/js/2.1e7bd2bb.chunk.js.map": "/fcc-drum-machine/static/js/2.1e7bd2bb.chunk.js.map",
+    "index.html": "/fcc-drum-machine/index.html",
+    "precache-manifest.0bb1ee4904ba7ebb324d88eee9bfc0d9.js": "/fcc-drum-machine/precache-manifest.0bb1ee4904ba7ebb324d88eee9bfc0d9.js",
+    "service-worker.js": "/fcc-drum-machine/service-worker.js",
+    "static/css/main.8a900045.chunk.css.map": "/fcc-drum-machine/static/css/main.8a900045.chunk.css.map",
+    "static/js/2.1e7bd2bb.chunk.js.LICENSE.txt": "/fcc-drum-machine/static/js/2.1e7bd2bb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf8df867.js",
+    "static/js/2.1e7bd2bb.chunk.js",
+    "static/css/main.8a900045.chunk.css",
+    "static/js/main.bb2fb2b2.chunk.js"
+  ]
+}
